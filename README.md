@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/cyberhandyman/wloc-spoofer-en/refs/heads/main/
 https://raw.githubusercontent.com/cyberhandyman/wloc-spoofer-en/refs/heads/main/modules/wloc.module
 
 **Shadowrocket(小火箭) --lussonwei :**
-https://raw.githubusercontent.com/lussonwei/wloc/refs/heads/main/modules/wloc.module
+https://raw.githubusercontent.com/lussonwei/wloc/refs/heads/main/modules/wloc.ssmodule
 > Egern 可直接使用 Surge 模块
 > Stash 请直接订阅上面的 `.stoverride`，无需用 Script Hub 转换
 
